@@ -1,6 +1,6 @@
 # slush-core
 
-> A Quick Generator for the FOUR core components you need to build a project form the ground up.
+> A Quick Generator for the FOUR core components you need to build a project from the ground up.
 
 #### Features
 
